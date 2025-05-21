@@ -19,4 +19,19 @@
 ## Program 2b-StringBuffer vs StringBuilder
 - [StringBuffer_vs_StringBuilder](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/2.Strings/StringBufferVsStringBuilder-output.png)
 
+## Program 3a-String Handling
+- [String_Handling_Demo](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/StringHandlingDemo-output.png)
+## Program 3b-String Exercises
+- [NullOrEmptyCheck](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/NullOrEmptyCheck-output.png)
+- [SubstringCounter](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/SubstringCounter-output.png)
+- [ReverseString](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/ReverseString-output.png)
+- [PalindromeChecker](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/PalindromeChecker-output.png)
+- [WhitespaceRemover](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/WhitespaceRemover-output.png)
+## Program 3c-String Operations
+- [CapitalizeWords](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/CapitalizeWords-output.png)
+- [TruncateString](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/TruncateString-output.png)
+- [NumericCheck](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/NumericCheck-output.png)
+- [RandomStringGenerator](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/RandomStringGenerator-output.png)
+- [WordCounter](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/WordCounter-output.png)
+
 
