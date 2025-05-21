@@ -44,6 +44,27 @@
 - **Program 5c** - [ContryCapitalList](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/5.%20SwingComponents/CountryCapitalList-output.png)
 - **Program 5d** - [ColorTabbedPaneExample](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/5.%20SwingComponents/ColorTabbedPaneExample-output.png)
 
+## Program 6-Servlets
+- **Program 6a** -[FactorialServlet](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/6.Servlets/6a.FactorialServlet/FactorialServlet-output.png)
+- **Program 6b** -[CookieServlet](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/6.Servlets/6b.CookieServlet/CookieServlet-output.png)
+- **Program 6c** -[PrimeServlet](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/6.Servlets/6c.PrimeServlet/PrimeServlet-output.png)
+
+## Program 7-JSP Programs
+- **Program 7a** -[SessionManagement](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/7.JSP%20Programs/7a.SessionManagement/SessionManagement-output.png)
+- **Program 7b** -[SetCookie](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/7.JSP%20Programs/7b.SetCookie/SetCookie-output.png)
+
+## Program 8-SQL + JDBC
+- **Program 8a** -[Insert_Coffee](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/8.SQL%2BJDBC/8a.InsertCoffee/Insert_Coffee-output.png)
+- **Program 8b** -[Update_Coffee](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/8.SQL%2BJDBC/8b.UpdateCoffee/Update_Coffee-output.png)
+- **Program 8c** -[AppendFields](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/8.SQL%2BJDBC/8c.AppendFields/AppendFields-output.png)
+- **Program 8d** -[UpdateFields](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/8.SQL%2BJDBC/8d.UpdataFields/UpdateFields-output.png)
+
+## Program 9-SQL + JDBC Operations
+- **Program 9a** -[Delete_Coffee](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/9.%20SQL%20%2B%20JDBC%20Operations/9a.DeleteCoffee/Delete_Coffee-output.png)
+- **Program 9b** -[Query_Coffee](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/9.%20SQL%20%2B%20JDBC%20Operations/9b.%20QueryCoffee/Query_Coffee-output.png)
+- **Program 9c** -[Mysql_Insert_Report](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/9.%20SQL%20%2B%20JDBC%20Operations/9c.%20Mysql_Insert_Report/Mysql_Insert_Report-output.png)
+- **Program 9d** -[Mysql_Delete_By_Name](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/9.%20SQL%20%2B%20JDBC%20Operations/9d.DeleteByName/Mysql_Delete_By_Name-output.png)
+
 
 
 
