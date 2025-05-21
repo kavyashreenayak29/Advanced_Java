@@ -14,3 +14,9 @@
 - [LinkedList_ElementPosition](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1c.LinkedList/LinkedListElementPosition-output.png)
 - [LinkedList_Swap](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1c.LinkedList/LinkedListSwap-output.png)
 
+## Program 2a-String Operations
+- [String_Operations](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/2.Strings/StringOperations-output.png)
+## Program 2b-StringBuffer vs StringBuilder
+- [StringBuffer_vs_StringBuilder](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/2.Strings/StringBufferVsStringBuilder-output.png)
+
+
