@@ -47,13 +47,10 @@
 
 ## Program 5-Swing Components
 - **Program 5a** - [JListExample](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/5.%20SwingComponents/JListExample-output.png)
-- [JListExample](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/5.%20SwingComponents/JListExample-output.png)
-### Program 5b
-- [TabbedPaneExample]
-### Program 5c
-- [ContryCapitalList]
-### Program 5d
-- [ColorTabbedPaneExample]
+- **Program 5b** - [TabbedPaneExample](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/5.%20SwingComponents/TabbedPaneExample-output.png)
+- **Program 5c** - [ContryCapitalList](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/5.%20SwingComponents/CountryCapitalList-output.png)
+- **Program 5d** - [ColorTabbedPaneExample](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/5.%20SwingComponents/ColorTabbedPaneExample-output.png)
+
 
 
 
