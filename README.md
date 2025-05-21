@@ -7,4 +7,10 @@
 - [ArrayList_SortColors](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListSortColors-output.png)
 - [ArrayList_ListSubList](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListSubList-output.png)
 - [ArrayList_RemoveNth](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListRemoveNth-output.png)
+## Program 1c-LinkedList
+- [LinkedList_IterateFromSecond](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1c.LinkedList/LinkedListIterateFromSecond-output.png)
+- [LinkedList_ReverseIteration](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1c.LinkedList/LinkedListReverseIteration-output.png)
+- [LinkedList_OfferLast](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1c.LinkedList/LinkedListOfferLast-output.png)
+- [LinkedList_ElementPosition](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1c.LinkedList/LinkedListElementPosition-output.png)
+- [LinkedList_Swap](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1c.LinkedList/LinkedListSwap-output.png)
 
