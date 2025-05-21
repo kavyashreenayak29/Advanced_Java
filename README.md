@@ -21,22 +21,24 @@
 ### Program 2b
 - [StringBuffer_vs_StringBuilder](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/2.Strings/StringBufferVsStringBuilder-output.png)
 
-## Program 3a-String Handling
+## Program 3-String Handling
+### Program 3a
 - [String_Handling_Demo](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/StringHandlingDemo-output.png)
-## Program 3b-String Exercises
+### Program 3b-String Exercises
 - [NullOrEmptyCheck](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/NullOrEmptyCheck-output.png)
 - [SubstringCounter](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/SubstringCounter-output.png)
 - [ReverseString](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/ReverseString-output.png)
 - [PalindromeChecker](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/PalindromeChecker-output.png)
 - [WhitespaceRemover](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3b.StringExercise/WhitespaceRemover-output.png)
-## Program 3c-String Operations
+### Program 3c-String Exercises
 - [CapitalizeWords](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/CapitalizeWords-output.png)
 - [TruncateString](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/TruncateString-output.png)
 - [NumericCheck](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/NumericCheck-output.png)
 - [RandomStringGenerator](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/RandomStringGenerator-output.png)
 - [WordCounter](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/3.StringHandling/3c.StringExercises/WordCounter-output.png)
 
-## Program 4a-Swing Example
+## Program 4-Swings
+### Program 4a
 - [SwingExample](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/4.Swings/SwingExample-output.png)
 
 
