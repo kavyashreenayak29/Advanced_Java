@@ -1,4 +1,5 @@
 # Advanced_Java
+A comprehensive collection of advanced Java programs covering core concepts such as ArrayList, LinkedList, String handling, Swing GUI components, Servlets, JSP, and JDBC operations with SQL. Each program is well-structured with practical examples and output screenshots.
 ## Program 1-List Interfaces
 - **Program 1a** - [ListInterfaceDemo](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/ListInterfaceDemo-output.png)
 ### Program 1b-ArrayList
