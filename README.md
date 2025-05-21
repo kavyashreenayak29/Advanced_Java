@@ -1,6 +1,6 @@
 # Advanced_Java
 ## Program 1a-List Interfaces
-[ListInterfaceDemo](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/ListInterfaceDemo-output.png)
+- [ListInterfaceDemo](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/ListInterfaceDemo-output.png)
 ## Program 1b-ArrayList
 - [ArraiList_ColorCheck](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListColorCheck-output.png)
 - [ArraiList_RemoveColor](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListRemoveColor-output.png)
