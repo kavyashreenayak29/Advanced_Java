@@ -1,6 +1,6 @@
 ## 1a-ListInterfaceDemo
 - **1a-ListInterfaceDemo-o/p** -(https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/ListInterfaceDemo-output.png)
-#3 1b-ArrayList
+## 1b-ArrayList
 - **ArrayListColorCheck-o/p**-(https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListColorCheck-output.png)
 - **ArrayListRemoveColor-o/p**-(https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListRemoveColor-output.png)
 - **ArrayListSortColors-o/p**-(https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListSortColors-output.png)
