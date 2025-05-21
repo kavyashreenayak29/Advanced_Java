@@ -2,9 +2,9 @@
 ## Program 1a-List Interfaces
 [ListInterfaceDemo](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/ListInterfaceDemo-output.png)
 ## Program 1b-ArrayList
-[ArraiList_ColorCheck](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListColorCheck-output.png)
-[ArraiList_RemoveColor](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListRemoveColor-output.png)
-[ArrayList_SortColors](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListSortColors-output.png)
-[ArrayList_ListSubList](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListSubList-output.png)
-[ArrayList_RemoveNth](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListRemoveNth-output.png)
+-[ArraiList_ColorCheck](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListColorCheck-output.png)
+-[ArraiList_RemoveColor](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListRemoveColor-output.png)
+-[ArrayList_SortColors](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListSortColors-output.png)
+-[ArrayList_ListSubList](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListSubList-output.png)
+-[ArrayList_RemoveNth](https://github.com/kavyashreenayak29/Advanced_Java/blob/main/1.ListInterface/1b.ArrayList/ArrayListRemoveNth-output.png)
 
